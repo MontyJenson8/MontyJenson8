@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MontyJenson8
-- 👀 I’m interested in VR development and gaming
+- 👀 I’m interested in VR development and gaming, QA and support
 - 🌱 I’m currently learning Unity development
 - 📫 How to reach me: monty@jenson8.com
 
